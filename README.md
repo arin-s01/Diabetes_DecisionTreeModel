@@ -50,7 +50,7 @@ The dataset contains medical attributes that may include:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/arin-s01/Diabetes_DecisionTreeModel.git
    ```
 
 2. Install the required libraries:
